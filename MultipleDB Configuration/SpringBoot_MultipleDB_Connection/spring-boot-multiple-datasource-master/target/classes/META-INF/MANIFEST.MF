@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Vaibhav.Jawale
+Build-Jdk: 17.0.1
+Implementation-Title: spring-boot-multiple-ds
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javatechie
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-multiple-ds
+Created-By: Maven Integration for Eclipse
+
